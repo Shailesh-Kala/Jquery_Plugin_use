@@ -1,0 +1,13 @@
+body {
+  background: rgba(137, 139, 137, 0.795);
+  margin: 15px;
+  color: rgba(255, 255, 255, 0.918);
+}
+
+#scrollUp {
+  bottom: 20px;
+  right: 20px;
+  padding: 19px;
+  background-image: url("../img/top.png");
+  color: #fff;
+}
